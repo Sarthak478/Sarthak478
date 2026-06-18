@@ -48,6 +48,6 @@ Web-based blood bank management solution for donor and inventory management.
 
 ## Connect With Me
 
-LinkedIn: [Add Link]
-Portfolio: [Add Link]
-Email: [Add Email]
+LinkedIn: https://linkedin.com/in/sarthak-ameriya
+Portfolio: https://portfoliosarthak123.netlify.app
+Email: sarthakameriya@gmail.com
